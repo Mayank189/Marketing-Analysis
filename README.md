@@ -15,7 +15,7 @@ In this project we have used DecisionTree,Random Forest,Logistic Regression and 
 
 Final Model Building:
 
-Among the models that we tried building the GBM Algorithm performed the best in terms of F1_Score, Area under ROC Curve and overall Model Gini
+Among the models that we tried building the GBM Algorithm performed the best in terms of F1_Score, Area under ROC Curve.
 
 Therefore we have kept GBM as the final model algorithm.
 
